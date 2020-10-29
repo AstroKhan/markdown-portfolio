@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*  Я _очень_ люблю программировать :boom: на **Питоне** 
+*  А еще я __учусь__ исполбзовать Гитхаб, что бы *стать* :sparkles: крутым разработчиком
+*  Ну и тут я **описал** _тестовые изменения_ :tree: с использованием эмодзи и акцентов
