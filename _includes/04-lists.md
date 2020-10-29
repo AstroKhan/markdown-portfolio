@@ -1,0 +1,12 @@
+1.  Trance
+2.  Techno
+3.  House
+    1.  Melodic
+    2.  Deep
+    3.  Bass
+*  Dubstep
+*  DnB
+   *  Jungle
+   *  Neurofunk
+-  Chill
+-  else
